@@ -1,2 +1,2 @@
 # data-visualization
-Exploring different data visualization techniques.
+An exploration of data visualization techniques.
